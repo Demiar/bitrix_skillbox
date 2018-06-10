@@ -155,5 +155,5 @@ $trendFilter = array('PROPERTY_TREND' => '4');
         "COMPATIBLE_MODE" => "N",
     ),
     false
-); ?>
+); ?>1
 <? require($_SERVER["DOCUMENT_ROOT"] . "/bitrix/footer.php"); ?>
