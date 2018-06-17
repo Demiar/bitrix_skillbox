@@ -1,5 +1,5 @@
-<? if (!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED !== true) die(); ?>
-<? /*if(IsModuleInstalled("idea")):?>
+<?if(!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true)die();?>
+<?/*if(IsModuleInstalled("idea")):?>
     <?$APPLICATION->IncludeComponent("bitrix:idea.popup", "", array(
             "BLOG_URL" => "#IDEA_BLOG_CODE#",
             "IBLOCK_CATOGORIES" => "#IDEA_IBLOCK_CATEGORY#",
@@ -21,4 +21,4 @@
             false
     );
     ?>
-<?endif;*/ ?>
+<?endif;*/?>

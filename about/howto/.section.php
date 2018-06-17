@@ -1,4 +1,5 @@
 <?
 $sSectionName = "Как купить";
-$arDirProperties = array();
+$arDirProperties = array(
+);
 ?>

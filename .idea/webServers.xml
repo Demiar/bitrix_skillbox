@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="658a5cee-1e61-4e02-beb4-5f640d0a62a2" name="z.hdfreza.ru" url="http://z.hdfreza.ru">
+        <fileTransfer host="5.9.70.146" port="22" rootFolder="/home/bitrix/ext_www/z.hdfreza.ru" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

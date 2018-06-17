@@ -1,4 +1,5 @@
 <?
 $sSectionName = "Контакты";
-$arDirProperties = array();
+$arDirProperties = array(
+);
 ?>
